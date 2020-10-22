@@ -778,7 +778,7 @@ p {
   overflow: hidden;
 }
 .menu-item-price {
-  color: #72b16e;
+  /*color: #72b16e;*/
   display: block;
 }
 .menu-item-variations .menu-item-price {
@@ -788,10 +788,10 @@ p {
   display: inline-block;
 }
 .menu-item-price-range {
-  color: #72b16e;
+  /*color: #72b16e;*/
 }
 .menu-item-price a, .menu-item-price-range a {
-  color: #72b16e;
+  /*color: #72b16e;*/
 }
 .menu-item-variations {
   margin-top: 0.21429em;
