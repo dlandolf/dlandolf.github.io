@@ -755,10 +755,10 @@ p {
   top: 0;
 }
 .menu-item-name {
-  font-size: 1.14286em;
+  /*font-size: 1.14286em;
   line-height: 1.25em;
   margin-top: 0.07143em;
-  margin-bottom: 0.07143em;
+  margin-bottom: 0.07143em; */
   overflow: hidden;
   text-overflow: ellipsis;
   width: 100%}
