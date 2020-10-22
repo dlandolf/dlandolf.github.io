@@ -1,0 +1,15 @@
+[submodule "Human-Robot-Handover-preview"]
+	path = Human-Robot-Handover-preview
+	url = https://github.com/dlandolf/Human-Robot-Handover-preview
+[submodule "Drifting-Wheeled-Legged-Robot"]
+	path = Drifting-Wheeled-Legged-Robot
+	url = https://github.com/dlandolf/Drifting-Wheeled-Legged-Robot
+[submodule "SLAM_Mobile-Robot"]
+	path = SLAM_Mobile-Robot
+	url = https://github.com/dlandolf/SLAM_Mobile-Robot
+[submodule "Tower-Defense"]
+	path = Tower-Defense
+	url = https://github.com/dlandolf/Tower-Defense
+[submodule "Business-Card-Analysis"]
+	path = Business-Card-Analysis
+	url = https://github.com/dlandolf/Business-Card-Analysis
